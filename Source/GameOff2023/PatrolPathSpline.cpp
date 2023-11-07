@@ -7,7 +7,6 @@ float UPatrolPathSpline::GetWaitTime() const
 {
 	return WaitTime;
 }
-
 void UPatrolPathSpline::SetWaitTime(float Value)
 {
 	WaitTime = Value;
