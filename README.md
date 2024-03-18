@@ -7,7 +7,7 @@
 [![Youtube](https://img.shields.io/badge/demo-youtube-%23db1818)](https://www.youtube.com/watch?v=Dg0uxkAEra8)
 [![Portfolio](https://img.shields.io/badge/details-personal%20website-%235203fc)](https://itaruf.github.io/projects.html)
 
-- "Escape 42 is a stealth game made for the Game Off 2023 jam. Step into a sci-fi environment and collect as much data as possible without being detected. Use your scaling technology to shrink yourself to a small size or scale up walls in order to get some much need cover.
+- Step into a sci-fi environment and collect as much data as possible without being detected. Use your scaling technology to shrink yourself to a small size or scale up walls in order to get some much need cover.
 
 ## Skills :fire:
 - **Scripting system**: Unreal Engine's Blueprints
