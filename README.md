@@ -1,12 +1,11 @@
 # Game Off 2023
-
-## Escape 42: 3D Stealth game 🚀
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 [![Itch.io](https://img.shields.io/badge/download-itch.io-%23e3326d)](https://itaruf.itch.io/escape-42)
 [![Youtube](https://img.shields.io/badge/demo-youtube-%23db1818)](https://www.youtube.com/watch?v=Dg0uxkAEra8)
 [![Portfolio](https://img.shields.io/badge/details-personal%20website-%235203fc)](https://itaruf.github.io/projects.html)
 
+## Escape 42: 3D Stealth game 🚀
 - Step into a sci-fi environment and collect as much data as possible without being detected. Use your scaling technology to shrink yourself to a small size or scale up walls in order to get some much need cover.
 
 ## Skills :fire:
