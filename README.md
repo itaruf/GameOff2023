@@ -32,8 +32,8 @@
 
   - **Scripting system**: Unreal Engine's Blueprints.
   - **Game engine**: Unreal Engine 5.
-  - **IDE**: JetBrains Rider.
-  - **Version control**: Perforce.
+  - **IDE**: Visual Studio Community 2022.
+  - **Version control**: Git.
 
 ### :star: Highlights 
 - **Incoming**
